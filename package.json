@@ -1,0 +1,15 @@
+{
+  "name": "skill-review-checker",
+  "version": "1.0.0",
+  "description": "Returns the number of reviews of an Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aswetlow",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
