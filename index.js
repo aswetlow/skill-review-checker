@@ -9,9 +9,11 @@ const config = {
 const skills = {
     'MovieQuiz DE': 'https://www.amazon.de/aswetlow-Movie-Quiz/dp/B07PGMCX2R/ref=pd_rhf_se_p_img_6?_encoding=UTF8&psc=1&refRID=2B0WZ64QYPQ2RQAMKV69',
     'MovieQuiz US': 'https://www.amazon.com/gp/product/B07PGMCX2R?pf_rd_p=1581d9f4-062f-453c-b69e-0f3e00ba2652&pf_rd_r=7EDZRN3ZNGK49WWBPE3P',
-    'MovieQuiz UK': 'https://www.amazon.co.uk/aswetlow-Movie-Quiz/dp/B07PGMCX2R/ref=sr_1_4?fst=as%3Aoff&qid=1555339132&refinements=p_n_date%3A10389709031&rnid=10389708031&s=digital-skills&sr=1-4',
     'MovieQuiz AU': 'https://www.amazon.com.au/aswetlow-Movie-Quiz/dp/B07PGMCX2R/ref=sr_1_10?qid=1555339272&rd=1&refinements=p_n_date%3A5109183051&rnid=5109182051&s=digital-skills&sr=1-10',
     'MovieQuiz CA': 'https://www.amazon.ca/aswetlow-Movie-Quiz/dp/B07PGMCX2R/ref=sr_1_1?fst=as%3Aoff&qid=1555339365&refinements=p_n_date%3A16381759011&rnid=16381758011&s=digital-skills&sr=1-1',
+    'Escape the room': 'https://www.amazon.com/gp/product/B075J914W2?ref-suffix=ab_gw_1&pf_rd_p=595dc5ef-efbc-4834-8046-d2657d99caa0&pf_rd_r=9BC70B1D5BF84BAEAC0F',
+    'Find My Phone': 'https://www.amazon.com/gp/product/B076PHYQD2?ref=skillrw_dsk_tens__4',
+    'Song Quiz': 'https://www.amazon.com/gp/product/B06XWGR7XZ?ref=skillrw_dsk_tens__7',
 };
 
 const crawl = async (name, url) => {
