@@ -20,9 +20,7 @@ const skills = {
 
 Run script.
 ```shell script
-> node index.js
-
-SkillName: 4.6 - 13 reviews / 57 voice ratings
+node index.js
 ```
 
 
